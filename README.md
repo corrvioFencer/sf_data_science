@@ -6,3 +6,4 @@ From the [SkillFactory Data Science sourse](https://skillfactory.ru/data-scienti
 
 * [Project 0]()
 
+## Links to the resume
