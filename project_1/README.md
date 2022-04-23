@@ -26,7 +26,7 @@
 - Учимся очищать данные
 
 
-###Исходные данные
+### Исходные данные
 Ссылка на данные hh.csv: https://drive.google.com/file/d/1QbvSCCoGWhNuYDXqyWA_HjlwpNUa2bZz/view?usp=sharing
 
 
